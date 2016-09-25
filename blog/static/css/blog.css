@@ -1,7 +1,13 @@
 h1 a {
     color: #00cc99;
-    font-size: 80px;
-    font-family: 'Courier New';
+    font-size: 40px;
+    font-family: 'Lobster';
+}
+
+h2 a {
+	color: #ffc299;
+	font-size: 25px;
+	font-family: 'Courier New'
 }
 body {
     padding-left: 80px;
